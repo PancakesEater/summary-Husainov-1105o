@@ -1,0 +1,32 @@
+hr {
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+}
+
+.yceba,
+.yceba1,
+.yceba2 {
+    border: 1px solid;
+    width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+.ycebas {        
+    position: relative;
+    top:-2px;        
+    left:-1px;
+    color: #fff;        
+    background: linear-gradient(45deg, #4158d0, #c850c0 40%, #ffcc70 90%);
+    cursor: pointer;          
+    border-color: black;
+    border-width: 2px;
+}
+
+
+
+
