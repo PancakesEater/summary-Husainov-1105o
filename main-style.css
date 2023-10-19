@@ -1,0 +1,82 @@
+@font-face {
+    font-family: "Roboto";
+    src: url("./summary-Husainov-1105o/fonts/Roboto.ttf")format("truetype");
+}
+@font-face {
+    font-family: "Roboto Mono";
+    src: url("./fonts/RobotoMono.ttf");
+}
+@font-face {
+    font-family: "Montserrat";
+    src: url("./fonts/Montserrat-Black.ttf")
+}
+@font-face {
+    font-family: "SFMono";
+    src: url("./fonts/SFMono-Bold.otf");
+}
+
+body {
+    margin: 0 0;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+}
+header {
+    font-family: "Roboto";
+    font-size: 0.8em;
+}
+h1, h2, h3 {
+    font-family: "Montserrat";
+    text-align: left;
+    padding: 6px 10;
+}
+h1 {
+    font-size: 1.5em;
+}
+h2 {
+    font-size: 1em;
+}
+.wrapper {
+    font-family: "Monsterrat";
+    background-color: rgb(161,199,255);
+    font-size: 1em;
+    border-top-left-radius:  24px;
+    border-top-right-radius:  24px;
+    border-bottom-left-radius:  24px;
+    border-bottom-right-radius: 24px;
+    width: 530px;
+    height: 580px;
+    display: inline-block;
+    margin-right: 2%;
+    margin-bottom: 5%;
+    font-weight: normal;
+}
+.container {
+    columns: 3;
+}
+.futa {
+    text-align: center;
+}
+img {
+    height: 20%;
+    width: auto;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+.wrapper:hover {
+   box-shadow: 5px 5px 5px 5px black;
+}
+.footerpupa {
+    text-align: center;
+}
+p {
+    text-align: center;
+    font-size: 16px;
+}

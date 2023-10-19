@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../Документы"
+		},
+		{
+			"name": "howToGit",
+			"path": "../Документы/howToGit"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "howToGit"
+	}
+}

@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Roboto";
+    src: url("./fonts/Roboto.ttf");
+}
+.bigtext {
+    font-family: "Roboto";
+    font-weight: normal;
+    font-size: 1em;
+    line-height: 1.5;
+}
+.fattext {
+    font-weight: bold;
+}
+.command {
+    font-weight: bold;
+}
